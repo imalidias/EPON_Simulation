@@ -1,0 +1,5 @@
+seq,direction,size_bytes,delay_us
+1,SERVER_TO_OLT,64,10
+2,OLT_TO_SERVER,64,10
+3,SERVER_TO_OLT,128,20
+4,OLT_TO_SERVER,64,10

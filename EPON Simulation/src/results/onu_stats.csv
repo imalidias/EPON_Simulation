@@ -1,0 +1,9 @@
+onu_id,traffic_type,avg_latency_s,max_latency_s,packets_sent,packets_received,packet_loss_rate,poll_count,Nserver,Niteration
+0,server,0.0462938,0.0462938,1,1,0,6,2,2
+1,server,0.0616746,0.0616746,1,1,0,6,2,2
+2,poisson,0.00143291,0.00146516,85,85,0,0,2,2
+3,poisson,0.00142442,0.00147139,102,102,0,0,2,2
+4,poisson,0.0014252,0.00147215,105,105,0,0,2,2
+5,poisson,0.00143129,0.00147236,85,85,0,0,2,2
+6,poisson,0.00143232,0.00147171,104,104,0,0,2,2
+7,poisson,0.00143565,0.00147071,113,113,0,0,2,2

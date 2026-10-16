@@ -1,0 +1,2 @@
+avg_latency_s,max_latency_s,total_sent,total_received,packet_loss_rate,total_polls,Nserver,Niteration
+0.00245405,0.184721,493,492,0,36,3,4
